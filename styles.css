@@ -24,6 +24,7 @@ body {
     margin: 0;
     font-size: 6em;
     padding-top: 300px;
+    text-align: center;
 }
 
 
@@ -66,7 +67,7 @@ body {
 /* start fade */
 .startfade{
     background-image: linear-gradient(#dededd, black);
-    height: 600vh;
+    height: 400vh;
 }
 
 /* stars image */
@@ -152,14 +153,6 @@ h1{
     color: white;
 }
 
-h2{
-    margin: 0;
-    padding-top: 125px;
-    color: white;
-    text-align: center;
-    font-size: 4em;
-}
-
 p{
     padding-top: 24px;
     text-align: center;
@@ -224,3 +217,198 @@ a{
     padding: 10px;
 }
 
+.title_mercury{
+    margin: 0;
+    padding-top: 125px;
+    color: white;
+    text-align: center;
+    font-size: 4em;
+}
+
+.title_venus{
+    margin: 0;
+    padding-top: 125px;
+    color: white;
+    margin-left: 425px;
+    font-size: 4em;
+}
+
+.title_earth{
+    margin: 0;
+    padding-top: 80px;
+    color: white;
+    padding-left: 450px;
+    font-size: 4em;
+}
+
+.title_mars{
+    margin: 0;
+    padding-top: 50px;
+    color: white;
+    margin-left: 365px;
+    font-size: 4em;
+}
+
+.title_jupiter{
+    margin: 0;
+    padding-top: 200px;
+    color: white;
+    text-align: center;
+    font-size: 4em;
+}
+
+.title_saturn{
+    margin: 0;
+    padding-top: 125px;
+    color: white;
+    text-align: center;
+    font-size: 4em;
+    margin-left: 125px;
+}
+
+.title_uranus{
+    margin: 0;
+    padding-top: 125px;
+    color: white;
+    text-align: center;
+    font-size: 4em;
+}
+
+.title_neptune{
+    margin: 0;
+    padding-top: 150px;
+    color: white;
+    text-align: center;
+    font-size: 4em;
+    margin-right: 100px;
+}
+
+
+.text_mercury{
+    padding-top: 24px;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.text_venus{
+    padding-top: 2px;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    margin-left: 350px;
+    margin-right: 400px;
+}
+
+.text_earth{
+    padding-top: 24px;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    margin-left: 325px;
+    margin-right: 300px;
+}
+
+.text_mars{
+    padding-top: 24px;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    margin-left: 250px;
+    margin-right: 400px;
+}
+
+.text_jupiter{
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    margin-left: 175px;
+    margin-right: 175px;
+}
+
+.text_saturn{
+    padding-top: 24px;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    margin-left: 300px;
+    margin-right: 150px;
+}
+
+.text_uranus{
+    padding-top: 24px;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.text_neptune{
+    padding-top: 2px;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    margin-right: 450px;
+    margin-left: 350px;
+}
+
+/* headshot */
+.headshot{
+    width: 400px;
+    height: auto;
+    margin-left: 400px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+/* first website link format*/
+.firstweb{
+    margin-left: 475px;
+}
+
+/* second website link format*/
+.secondweb{
+    margin-left: 500px;
+}
+
+/* third website link format*/
+.thirdweb{
+    margin-left: 425px;
+}
+
+/* PMHS image format*/
+.pmhs{
+    width: 400px;
+    height: auto;
+    margin-left: 200px;
+}
+
+/* purdue image format*/
+.purdue{
+    width: 470px;
+    height: auto;
+    margin-left: 50px;
+}
+
+/* CAD link format*/
+.CAD{
+    margin-left: 500px;
+}
+
+.restart_button{
+    background-color: #ba3b3d;
+    border-radius: 15px;
+    font-size: 800%;
+    margin-left: 375px;
+}
+
+.land{
+    text-align: center;
+    font-size: 800%;
+    padding-top: 425px;
+    margin-bottom: 100px;
+}
